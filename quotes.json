@@ -1,0 +1,819 @@
+{
+  "quotes": [
+    {
+      "text": "I'm a friend first, boss second, and probably an entertainer third.",
+      "theme": "leadership_style",
+      "season": 1,
+      "type": "philosophy"
+    },
+    {
+      "text": "A great manager doesn't make decisions; the best manager makes decisions that seem like they weren't made.",
+      "theme": "management_philosophy",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "I'm not superstitious, but I am a little stitious.",
+      "theme": "quirky",
+      "season": 3,
+      "type": "quote"
+    },
+    {
+      "text": "Whenever I'm about to do something, I think 'Would an idiot do that?' And if they would, I do not do that thing.",
+      "theme": "decision_making",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "I run away from my problems, and it works.",
+      "theme": "coping_strategy",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "The key to a great manager is not to do the work yourself, even though I have a lot of it.",
+      "theme": "delegation",
+      "season": 2,
+      "type": "advice"
+    },
+    {
+      "text": "I don't think I'm a bad manager. Because I don't think I'm managing people. I think I'm leading them.",
+      "theme": "leadership_style",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "You took me for granted.",
+      "theme": "relationships",
+      "season": 3,
+      "type": "quote"
+    },
+    {
+      "text": "Sometimes I'll start a sentence and I don't even know where it's going. I hope I find it along the way.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "My philosophy is basically this, and this is something that I live by, and I always have, and I always will: Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what.",
+      "theme": "philosophy",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I would rather feel bad man. That's all that matters to me is that you're happy.",
+      "theme": "employee_care",
+      "season": 2,
+      "type": "advice"
+    },
+    {
+      "text": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+      "theme": "quirky",
+      "season": 5,
+      "type": "quote"
+    },
+    {
+      "text": "Fool me once, strike one. But fool me twice... strike three.",
+      "theme": "decision_making",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "I'm not a perfectionist, but I do care.",
+      "theme": "standards",
+      "season": 6,
+      "type": "advice"
+    },
+    {
+      "text": "Be the person your dog thinks you are.",
+      "theme": "leadership_style",
+      "season": 7,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm an early bird and I'm a night owl, so I'm essentially a 24-hour bird.",
+      "theme": "quirky",
+      "season": 5,
+      "type": "quote"
+    },
+    {
+      "text": "Treat every day like it's your last, and eventually you'll be right.",
+      "theme": "philosophy",
+      "season": 6,
+      "type": "advice"
+    },
+    {
+      "text": "I think that the fact that I get along with these people means that we are friends.",
+      "theme": "relationships",
+      "season": 3,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm running away from my responsibilities. And it's awesome.",
+      "theme": "coping_strategy",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "I'm not offended by homosexuality. In the '80s I made out with a man. It was awesome.",
+      "theme": "quirky",
+      "season": 2,
+      "type": "quote"
+    },
+    {
+      "text": "Umm, you know what? I'm going to do what's best for the company and for the people that work here.",
+      "theme": "decision_making",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I wish there was a way to know you're in the good old days before you've actually left them.",
+      "theme": "wisdom",
+      "season": 9,
+      "type": "advice"
+    },
+    {
+      "text": "I'm an idiot. But I'm an idiot that makes an effort.",
+      "theme": "self_awareness",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "The worst thing about prison was the Dementors.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "I am Beyoncé, always.",
+      "theme": "quirky",
+      "season": 5,
+      "type": "quote"
+    },
+    {
+      "text": "I love inside jokes. I'd love to be part of one someday.",
+      "theme": "relationships",
+      "season": 3,
+      "type": "quote"
+    },
+    {
+      "text": "I declare bankruptcy!",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
+      "theme": "self_awareness",
+      "season": 3,
+      "type": "quote"
+    },
+    {
+      "text": "You can't just say you declare bankruptcy. You have to say 'I declare bankruptcy.'",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "When I was in business, I had to learn how to manage my time.",
+      "theme": "management_philosophy",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "Everywhere I go, I find that people want to be around me. That's just what happens.",
+      "theme": "self_perception",
+      "season": 4,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm not a bad person. I'm not a bad manager.",
+      "theme": "self_defense",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "This is what I love about these people. No matter what, they show up and do their job.",
+      "theme": "employee_appreciation",
+      "season": 6,
+      "type": "advice"
+    },
+    {
+      "text": "The best time to wear a striped sweater is all the time.",
+      "theme": "quirky",
+      "season": 7,
+      "type": "quote"
+    },
+    {
+      "text": "I need to work on being a better manager. I think I am.",
+      "theme": "self_improvement",
+      "season": 7,
+      "type": "advice"
+    },
+    {
+      "text": "I gave my blood, sweat and tears to that company. Literally.",
+      "theme": "dedication",
+      "season": 6,
+      "type": "philosophy"
+    },
+    {
+      "text": "All I know is my gut tells me maybe.",
+      "theme": "decision_making",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I would rather work for someone who worked for me.",
+      "theme": "management_philosophy",
+      "season": 3,
+      "type": "philosophy"
+    },
+    {
+      "text": "You miss 100% of the shots you don't take.",
+      "theme": "motivation",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked.",
+      "theme": "self_awareness",
+      "season": 2,
+      "type": "philosophy"
+    },
+    {
+      "text": "I have been Michael Scott for a long time. Like, as long as I can remember.",
+      "theme": "quirky",
+      "season": 5,
+      "type": "quote"
+    },
+    {
+      "text": "I should have been a priest. I have such a good relationship with God.",
+      "theme": "quirky",
+      "season": 6,
+      "type": "quote"
+    },
+    {
+      "text": "I can't talk to you without being in my underwear. It's a new management style.",
+      "theme": "leadership_style",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I want people to be afraid of how much they love me.",
+      "theme": "leadership_style",
+      "season": 3,
+      "type": "philosophy"
+    },
+    {
+      "text": "That's what she said.",
+      "theme": "quirky",
+      "season": 2,
+      "type": "quote"
+    },
+    {
+      "text": "I'm going to go have a cigarette, right now. It's only my second one today.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "We're not dating. We're just friends who happen to be in love.",
+      "theme": "relationships",
+      "season": 6,
+      "type": "quote"
+    },
+    {
+      "text": "I'm not superstitious, I'm just a little stitious. And I will not be undermined by employees.",
+      "theme": "management_philosophy",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "Everything I have, I owe to this job. This job is my life.",
+      "theme": "dedication",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "The most important thing is the mission: to make the client happy. So I make myself happy first.",
+      "theme": "advice",
+      "season": 4,
+      "type": "philosophy"
+    },
+    {
+      "text": "I wish I could go back in time and change that decision.",
+      "theme": "wisdom",
+      "season": 5,
+      "type": "quote"
+    },
+    {
+      "text": "I have too much on my plate. But that's what makes me a good manager—I delegate most of it.",
+      "theme": "delegation",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "Crying is not a sign of weakness. It's a sign of passion and dementia.",
+      "theme": "quirky",
+      "season": 3,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm like an athlete. Except I'm not.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "I'm going to tell you why I like your proposal. It's because you addressed me as the decision-maker.",
+      "theme": "leadership_style",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "The worst day of your life so far.",
+      "theme": "motivation",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm not going to be ignored, Dan. Wait, wrong reference. Michael Scott is not going to be ignored.",
+      "theme": "quirky",
+      "season": 6,
+      "type": "quote"
+    },
+    {
+      "text": "I'm not a hero. I'm a normal person that does extraordinary things.",
+      "theme": "self_perception",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "Sometimes you need to take a step back and remind yourself of what's important.",
+      "theme": "wisdom",
+      "season": 6,
+      "type": "advice"
+    },
+    {
+      "text": "I would never fire someone. Unless they deserved it.",
+      "theme": "management_philosophy",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "It's not about the money. But also, it's always about the money.",
+      "theme": "quirky",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "I'm not going to let corporate culture destroy the heart of my office.",
+      "theme": "leadership_style",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "I don't think I can do anything wrong. Because I do everything with good intentions.",
+      "theme": "self_awareness",
+      "season": 4,
+      "type": "philosophy"
+    },
+    {
+      "text": "I put my whole heart and soul into Dunder Mifflin. That's what managers do.",
+      "theme": "dedication",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I'm running away to Costa Rica. I'm going to be one of those guys with a big beard.",
+      "theme": "coping_strategy",
+      "season": 6,
+      "type": "quote"
+    },
+    {
+      "text": "That's what I love about this place. People listen to me.",
+      "theme": "leadership_style",
+      "season": 3,
+      "type": "philosophy"
+    },
+    {
+      "text": "I would never poison someone. Even if I could.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "I have decided that I'm going to be positive about things.",
+      "theme": "motivation",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "The best managers are like basketball coaches. And I'm like Michael Jordan.",
+      "theme": "management_philosophy",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "I'm going to make the biggest decision of my life based on a coin flip.",
+      "theme": "decision_making",
+      "season": 6,
+      "type": "quote"
+    },
+    {
+      "text": "Business ethics are a thing of the past. I'm talking about business love.",
+      "theme": "management_philosophy",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "I don't care if you like me. Just do your job and like Dunder Mifflin.",
+      "theme": "delegation",
+      "season": 3,
+      "type": "advice"
+    },
+    {
+      "text": "I'm the World's Best Boss. It says so on my mug.",
+      "theme": "self_perception",
+      "season": 2,
+      "type": "philosophy"
+    },
+    {
+      "text": "I don't tell jokes. I tell stories.",
+      "theme": "quirky",
+      "season": 4,
+      "type": "quote"
+    },
+    {
+      "text": "The key to working out is consistency. And I am nothing if not consistent.",
+      "theme": "motivation",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I learned that you can't just treat people like commodities.",
+      "theme": "employee_care",
+      "season": 7,
+      "type": "wisdom"
+    },
+    {
+      "text": "I don't have a lot of close friends. But the people in this office are my best friends.",
+      "theme": "relationships",
+      "season": 6,
+      "type": "philosophy"
+    },
+    {
+      "text": "Never go with your gut. Gut's stupid.",
+      "theme": "decision_making",
+      "season": 4,
+      "type": "advice"
+    },
+    {
+      "text": "I'm ready to take on the world. And by the world, I mean Dunder Mifflin.",
+      "theme": "motivation",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "This is a dream that I have had since lunch, and I am not giving up on it now.",
+      "theme": "determination",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "This is not Michael Scott talking right now, this is your future. Hello, I am your future. You're older, and you are very happy now. Because you went with Michael Scott.",
+      "theme": "inspiration",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "Are you, are you doing your best here? Are you being the best that you can be?",
+      "theme": "motivation",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "I've got nothing got lose.",
+      "theme": "determination",
+      "season": 5,
+      "type": "philosophy"
+    },
+    {
+      "text": "I cannot promise success, but I will promise you the best effing time of your life!!!",
+      "theme": "inspiration",
+      "season": 5,
+      "type": "advice"
+    },
+    {
+      "text": "When I was seven, my mother hired a pony and a cart to come to my house for all the kids. And I got a really bad rash. From the pony. Had to go inside, and my mother was rubbing cream on me, for probably three hours, and I never came outside.",
+      "theme": "childhood",
+      "season": 3,
+      "type": "personal_story"
+    },
+    {
+      "text": "I fell in love with these kids. And I didn't want to see them fall victim to the system. So I made 'em a promise. I told them if they graduated from high school, I would pay for their college education.",
+      "theme": "generosity",
+      "season": "various",
+      "type": "philosophy"
+    },
+    {
+      "text": "An office is a place where dreams come true. To the max.",
+      "theme": "workplace_philosophy",
+      "season": "various",
+      "type": "philosophy"
+    },
+    {
+      "text": "That's what she said.",
+      "theme": "humor",
+      "season": "ongoing",
+      "type": "catchphrase"
+    }
+  ],
+  "personal_habits": [
+    {
+      "text": "I enjoy having breakfast in bed. I like waking up to the smell of bacon. Sue me. And since I don't have a butler, I have to do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman grill. Then I go to sleep. When I wake up, I plug in the grill. I go back to sleep again. Then I wake up to the smell of crackling bacon. It is delicious. It's good for me. It's a perfect way to start the day.",
+      "category": "morning_routine",
+      "topic": "breakfast",
+      "season": 2,
+      "episode": "The Injury"
+    },
+    {
+      "text": "How does one just sit down and work? You have to ease into it.",
+      "category": "work_habits",
+      "topic": "productivity",
+      "season": "late",
+      "episode": "various"
+    },
+    {
+      "text": "I don't know what it is, but something about me being here is just stressing everybody out.",
+      "category": "self_awareness",
+      "topic": "stress_management",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "I spent the afternoon in the park trying to feed the pigeons. I guess they all flew west for the winter. And I just had some thoughts that I wanted to share with you people.",
+      "category": "coping_strategy",
+      "topic": "stress_relief",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "Any man who says he totally understands women is a fool.",
+      "category": "dating_philosophy",
+      "topic": "relationships",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "Hi, I'm Date Mike. Nice to meet me. How do you like your eggs in the morning?",
+      "category": "dating_philosophy",
+      "topic": "pickup_lines",
+      "season": "mid",
+      "episode": "various"
+    },
+    {
+      "text": "Games have the power to distract people from stressful situations.",
+      "category": "stress_management",
+      "topic": "distraction_as_therapy",
+      "season": "late",
+      "episode": "various"
+    },
+    {
+      "text": "I'm sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor.",
+      "category": "personal_narrative",
+      "topic": "self_perception",
+      "season": 1,
+      "episode": "Basketball"
+    },
+    {
+      "text": "Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it's not like this compulsive need to be liked... like my need to be praised.",
+      "category": "self_awareness",
+      "topic": "emotional_needs",
+      "season": 2,
+      "episode": "various"
+    },
+    {
+      "text": "I have a habit of standing directly underneath icicles and staring up at them. I like the way they look from standing directly underneath them.",
+      "category": "personal_habits",
+      "topic": "dangerous_behavior",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.",
+      "category": "health_habits",
+      "topic": "hypochondria",
+      "season": 3,
+      "episode": "Beach Games"
+    },
+    {
+      "text": "I ran away from my problems. And it works.",
+      "category": "coping_strategy",
+      "topic": "avoidance",
+      "season": 4,
+      "episode": "various"
+    },
+    {
+      "text": "I'm running away from my responsibilities. And it's awesome.",
+      "category": "coping_strategy",
+      "topic": "escape",
+      "season": 4,
+      "episode": "various"
+    },
+    {
+      "text": "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way.",
+      "category": "communication_style",
+      "topic": "improv",
+      "season": 4,
+      "episode": "various"
+    },
+    {
+      "text": "I really don't know what the hell I'm doing. I sometimes put on a good show, and I sometimes don't even quite do that, but I'm just rambling along trying to figure it out as I go along.",
+      "category": "self_awareness",
+      "topic": "honesty",
+      "season": "late",
+      "episode": "various"
+    },
+    {
+      "text": "Reverse psychology is an awesome tool. I don't know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.",
+      "category": "management_technique",
+      "topic": "manipulation",
+      "season": 5,
+      "episode": "various"
+    },
+    {
+      "text": "When I was in business, I had to learn how to manage my time.",
+      "category": "professional_philosophy",
+      "topic": "time_management",
+      "season": 3,
+      "episode": "various"
+    },
+    {
+      "text": "I wrote them down so I wouldn't forget.",
+      "category": "organizational_habit",
+      "topic": "memory",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "I forgot that Kevin has been eating all the food. So I have to order more.",
+      "category": "management_problem",
+      "topic": "office_supplies",
+      "season": "various",
+      "episode": "various"
+    },
+    {
+      "text": "I want people to be afraid of how much they love me.",
+      "category": "management_philosophy",
+      "topic": "power_dynamic",
+      "season": 3,
+      "episode": "various"
+    },
+    {
+      "text": "Games have the power to distract people from stressful situations. Battleship got me through my parents' divorce. Operation got me through my vasectomy, i.e., my operation. I don't think I would have been able to endure my breakup with Holly had it not been for Toss Across.",
+      "category": "stress_management",
+      "topic": "distraction_as_coping",
+      "season": 6,
+      "episode": "Murder"
+    },
+    {
+      "text": "They need this game, Jim! Let us have this stupid little game, alright!?",
+      "category": "management_philosophy",
+      "topic": "employee_morale",
+      "season": 6,
+      "episode": "Murder"
+    },
+    {
+      "text": "If you're a family stuck on a lifeboat in the middle of the ocean, one parent might want to just keep rowing. But if the other parent wants to play a game, it's not because they're crazy. It's because they're doing it for the kids.",
+      "category": "management_philosophy",
+      "topic": "understanding_employees",
+      "season": 6,
+      "episode": "Murder"
+    }
+  ],
+  "ideas_and_inventions": [
+    {
+      "text": "I have an idea for a fancy men's shoe store called Shoe La La. And it's just men's shoes for the special occasions in a man's life, like the day that you get married or the day your wife has a baby, or for just lounging around the house.",
+      "idea": "Shoe La La",
+      "category": "retail",
+      "season": 5,
+      "episode": "Golden Ticket"
+    },
+    {
+      "text": "It's a net, a circular net you put inside the toilet to catch all of your change and your wallet from falling into the toilet. Formerly known as Toilet Guard.",
+      "idea": "Toilet Buddy",
+      "category": "bathroom",
+      "season": 5,
+      "episode": "Golden Ticket"
+    },
+    {
+      "text": "Toilet Sponge. It's a hollowed out sponge that is more absorbent and softer than toilet paper. I have a lot of toilet ideas.",
+      "idea": "Toilet Sponge",
+      "category": "bathroom",
+      "season": 5,
+      "episode": "Golden Ticket"
+    },
+    {
+      "text": "A Magic No Ouchie Meat Machine — a foot-safe version of the George Foreman Grill. It's a grill inside a bunny cage.",
+      "idea": "Magic No Ouchie Meat Machine",
+      "category": "kitchen",
+      "season": 2,
+      "episode": "The Injury"
+    },
+    {
+      "text": "I mix Newman's Ranch with Newman's Italian. I sell it at flea markets for a slight loss. It's called Great Scott!",
+      "idea": "Great Scott Salad Dressing",
+      "category": "food",
+      "season": 4,
+      "episode": "Fun Run (deleted scene)"
+    },
+    {
+      "text": "Tube City — a system of interconnected tubes running through the office with hamsters inside them.",
+      "idea": "Tube City",
+      "category": "office_innovation",
+      "season": 6,
+      "episode": "Murder"
+    },
+    {
+      "text": "Mike's Cereal Shack — a restaurant that serves every variety of cereal they sell in the store.",
+      "idea": "Mike's Cereal Shack",
+      "category": "food_service",
+      "season": 9,
+      "episode": "Company Picnic"
+    },
+    {
+      "text": "Chair Pants — a chair that is part of your pants so when you sit down, you're supported.",
+      "idea": "Chair Pants",
+      "category": "fashion_furniture",
+      "season": 9,
+      "episode": "Company Picnic"
+    },
+    {
+      "text": "A lot of ideas were not appreciated in their time. Electricity. Shampoo.",
+      "idea": "Ideas not appreciated in their time",
+      "category": "philosophy",
+      "season": 5,
+      "episode": "Stress Relief"
+    },
+    {
+      "text": "I'm filled with good ideas. Thousands of good ideas.",
+      "idea": "General idea philosophy",
+      "category": "philosophy",
+      "season": 5,
+      "episode": "Golden Ticket"
+    },
+    {
+      "text": "Everybody has to go to the bathroom. They're not easy ideas.",
+      "idea": "Defending toilet ideas",
+      "category": "bathroom",
+      "season": 5,
+      "episode": "Golden Ticket"
+    },
+    {
+      "text": "The Michael Scott Paper Company — my own paper company, founded upon quitting Dunder Mifflin.",
+      "idea": "Michael Scott Paper Company",
+      "category": "business_venture",
+      "season": 5,
+      "episode": "Broke"
+    }
+  ],
+  "management_approaches": [
+    {
+      "name": "The Friend Boss",
+      "approach": "Treats employees like best friends first, manages second. Wants to be loved more than respected.",
+      "effectiveness": "Sometimes works short-term, creates chaos long-term"
+    },
+    {
+      "name": "The Emotional Manager",
+      "approach": "Makes decisions based on feelings. Cries during meetings. Gets angry, then forgives too quickly.",
+      "effectiveness": "Unpredictable and exhausting for staff"
+    },
+    {
+      "name": "The Improviser",
+      "approach": "No plan, just feels. Makes up policy on the fly. Contradicts himself constantly.",
+      "effectiveness": "Somehow accidentally works sometimes"
+    },
+    {
+      "name": "The Delegator (Sort Of)",
+      "approach": "Gives tasks to people, then immediately takes them back or changes direction halfway through.",
+      "effectiveness": "Confusing but keeps him busy"
+    },
+    {
+      "name": "The Motivator Through Fear",
+      "approach": "Reminds people he can fire them, then immediately says he'd never do it. Keeps them off-balance.",
+      "effectiveness": "Creates anxiety, not loyalty"
+    }
+  ],
+  "metadata": {
+    "character": "Michael Scott",
+    "show": "The Office",
+    "total_quotes": 82,
+    "total_personal_habits": 24,
+    "total_ideas_inventions": 12,
+    "total_approaches": 5,
+    "categories": ["leadership_style", "management_philosophy", "decision_making", "employee_care", "relationships", "quirky", "wisdom", "coping_strategy", "motivation", "self_awareness", "self_perception", "dedication", "standards", "self_improvement", "advice"],
+    "types": ["advice", "philosophy", "quote", "wisdom"],
+    "habit_categories": ["morning_routine", "work_habits", "stress_management", "coping_strategy", "dating_philosophy", "personal_narrative", "communication_style", "health_habits", "organizational_habit", "management_technique", "professional_philosophy", "management_problem"]
+  }
+}
